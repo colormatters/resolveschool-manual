@@ -1,0 +1,1 @@
+resolve man DaVinci_Resolve_21_1_man_sept_2026
